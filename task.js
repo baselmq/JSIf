@@ -17,7 +17,7 @@ if (fName == "John") {
 }
 // ---------------------------------------------
 let day = "Monday";
-if (day != "Saturday" && "Sunday") {
+if (day != "Saturday" && day != "Sunday") {
   console.log("It's a weekday");
 }
 // ---------------------------------------------
